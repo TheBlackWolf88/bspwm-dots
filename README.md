@@ -6,5 +6,6 @@ This is the config I'm currently using.
 - Compositor: Picom
 - Notifications: Dunst
 - Bar: Polybar
+- Launcher: Dmenu (with lineheight patch)
 - Editor: Neovim (with Coc)
 - Terminal apps : Cava, Cbonsai, ufetch, htop
